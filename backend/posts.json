@@ -1,72 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "author": "rickyurvina",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "author": "rickyurvina",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "author": "rickyurvina",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 4,
-      "title": "Post 4",
-      "author": "davidaraya",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 5,
-      "title": "Post 5",
-      "author": "davidaraya",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 6,
-      "title": "Post 6",
-      "author": "rickyurvina",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "author": "davidaraya",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "author": "marceloc",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "author": "marceloc",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "author": "marceloc",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
-      "id": 11,
-      "title": "Post 11",
-      "author": "rickyurvina",
-      "image": "https://source.unsplash.com/random/200x200?sig=1"
-    },
-    {
       "id": 12,
       "title": "Post 12",
       "author": "marcossilva",
@@ -122,26 +56,6 @@
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "Comment 1 for Post 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "Comment 2 for Post 1",
-      "postId": 1
-    },
-    {
-      "id": 3,
-      "body": "Comment 1 for Post 2",
-      "postId": 2
-    },
-    {
-      "id": 4,
-      "body": "Comment 2 for Post 2",
-      "postId": 2
-    },
     {
       "id": 75,
       "body": "Comment 3 for Post 20",
